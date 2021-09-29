@@ -1,0 +1,1 @@
+# fastify-vite-example
